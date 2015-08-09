@@ -8,10 +8,10 @@ Simple examples of  golang
 # Summary
 学习golang有一段时间了，对golang基础语法已经熟悉，总体感觉golang相对于C语言的学习更简单学习。
 而且，个人是从C语言方向转来的，所以学习起来挺简单。但，自己缺少了Client-Server程序的实践
-经验，所以，亟需相关examples来增加对相关知识的掌握，提升自己在Client-Server相关经验。
+经验，所以，亟需相关examples来增加对相关知识的掌握，提升自己在Client-Server方面能力。
 
 # Reference material
-《Programming in GO》Mark Summerfield 著；许式伟 吕桂华 徐立 何李石 译
-《Network programming with Go》
+《Programming in GO》Mark Summerfield 著；许式伟 吕桂华 徐立 何李石 译。
+《Network programming with Go》。
 
 
